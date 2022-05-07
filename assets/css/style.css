@@ -1,0 +1,45 @@
+header{
+padding: 5em;
+font-size: 2em;
+background-image: url("../img/tecnologia.webp");
+background-size: cover;
+background-position: center;
+height:35px;
+color: white;
+
+}
+header h1{
+  margin: 0px;
+  font-weight:400;
+    }
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-image: url("../img/fondobody.webp");
+  background-position: center;
+    }
+
+.products {
+  width: 80%;
+  margin: auto;
+      }
+.products td{
+  width: 50%;
+  padding: 2em;
+      }
+.products img{
+  width: 100%;
+  border: solid 1px #ddd;
+  border-radius: 20%;
+      }
+footer{
+  height: 3em;
+  line-height: 3em;
+  background-color:red;
+  color: white;
+  text-align: center;
+  font-weight: 900;
+       }
+.products p{
+  font-size: 2em;
+  font-style: italic;
+}
